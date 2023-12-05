@@ -33,7 +33,7 @@ const Header = () => {
         />
 
         <NavbarItem>
-          <Link href="https://next-menu-gzcy79rvq-diony-caros-projects.vercel.app/about" className=" text-white">
+          <Link href="https://next-menu-mocha.vercel.app/about" className=" text-white">
             About
           </Link>
         </NavbarItem>
