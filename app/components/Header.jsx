@@ -12,7 +12,7 @@ const Header = () => {
     <Navbar isBordered className="bg-slate-900">
       <NavbarContent justify="start">
         <NavbarBrand className="mr-4">
-          <Link href="https://next-menu-gzcy79rvq-diony-caros-projects.vercel.app/">
+          <Link href="https://next-menu-gzcy79rvq-diony-caros-projects.vercel.app">
           <p className="md:text-2xl text-white sm:block font-bold text-inherit">
             Next-Menú
           </p>
