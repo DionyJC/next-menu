@@ -18,7 +18,7 @@ export default async function Page({ params }) {
 
   return (
     <div className="container mx-auto my-10 max-w-screen-xl">
-      <Link href={"http://localhost:3000/"} className="text-center block mb-8">
+      <Link href={"https://next-menu-mocha.vercel.app/"} className="text-center block mb-8">
       <h2 className="text-slate-800 font-bold md:text-2xl">Regresar</h2>
       </Link>
 
